@@ -1,0 +1,71 @@
+The FitnessGram™ Pacer Test is a multistage aerob
+
+At this point, you're probably wondering: "what
+on earth is wrong with this 3DS"?
+
+The thing is, this 3DS is modded.
+
+This 3DS is running a firmware version lower
+than or at 9.2, meaning that the NAND chip
+on the 3DS has data for version 9.2 of
+the 3DS's operating system.  Versions 9.2
+of the 3DS's firmware contain exploits,
+including exploits that allow unsigned code
+to be run on the 3DS, as well as kernel
+exploits.
+
+Kernel exploits on the 3DS allow for
+Custom Firmware, or CFW.  CFWs essentially
+load the 3DS's home menu with signature
+checks disabled, allowing custom code (as well
+as pirated material) to be run on the 3DS.
+CFW is what allows this program, among others,
+to run on the 3DS.
+
+Chances are, this 3DS is running off an EmuNAND.
+Essentially, an EmuNAND is a small partition on
+the SD Card of the 3DS that contains data
+similar to that on the 3DS's NAND chip.  CFWs
+redirect 3DS system reads to this partition
+on the SD card, as opposed to the 3DS's on-
+board NAND chip.  One can install games and
+apps to this EmuNAND freely.
+
+tl;dr This 3DS is modded, allowing custom
+programs, as well as pirated games to be
+run on it.  The 3DS's OS is also essentially
+being loaded off the SD Card.
+
+In the case you AREN'T running an EmuNAND,
+proceed with caution.  Reads and writes to
+the regular NAND chip on the 3DS (SysNAND)
+could brick the system (render it unusable).
+
+IF YOU AREN'T SURE WHICH NAND YOU ARE ON,
+TURN THE 3DS OFF.  IF THIS IS YOUR 3DS, 
+CONTACT THE PERSON WHO MODDED IT AND ASK
+FOR MORE INFORMATION.  CONTINUING WITHOUT
+A PRIOR KNOWLEDGE OF 3DS HACKING COULD
+RESULT IN A BRICK.
+
+If this is not your 3DS, and you have no prior
+knowledge of 3DS hacking, it is advised not to
+run any unfamiliar programs, as doing so could
+tamper the 3DS against its owner's wishes,
+and/or possibly brick the system.
+If this 3DS is lost, try to return
+it to its original owner.
+
+If this is your 3DS, remember to run frequent
+NAND backups.  This can be achieved through
+programs like EmuNAND9, which
+are, more likely than not, already on this
+system and can be run using a boot manager.
+The button corresponding to these programs
+is probably outlined on your
+boot manager.  If you are still
+confused, contact the person who modded
+your system.
+
+For more info, see the /r/3dshacks
+subreddit on reddit.

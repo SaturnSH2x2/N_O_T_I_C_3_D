@@ -1,0 +1,44 @@
+At this point, you're probably wondering: "what
+on earth is wrong with this 3DS"?
+
+The thing is, this 3DS is modded.
+
+Right now, this 3DS is running an exploit known
+as ARM9 Loader Hax, best known as A9LH.  To 
+simplify it, this 3DS has custom files writt-
+en to its NAND chip, causing the 3DS to boot
+unsigned code directly at boot.  
+
+Allowing the 3DS to run unsigned code enables
+Custom Firmware, or CFW.  CFWs essentially
+load the 3DS's home menu with signature
+checks disabled, allowing custom code (as well
+as pirated material) to be run on the 3DS.
+CFW is what allows this program, among others,
+to run on the 3DS.
+
+tl;dr This 3DS is modded, allowing custom
+programs, as well as pirated games to be
+run on it.
+
+If this is not your 3DS, and you have no prior
+knowledge of 3DS hacking, it is advised not to
+run any unfamiliar programs, as doing so could
+tamper the 3DS against its owner's wishes,
+and/or possibly brick the system (render it 
+unusable).  If this 3DS is lost, try to return
+it to its original owner.
+
+If this is your 3DS, remember to run frequent
+NAND backups.  This can be achieved through
+programs like EmuNAND9 and Hourglass9, which
+are, more likely than not, already on this
+system and can be activated by pressing down
+a button on boot.  The button corresponding
+to these programs is probably outlined on your
+CFW's splash screen.  If you are still
+confused, contact the person who installed
+A9LH on your system.
+
+For more info, see the /r/3dshacks
+subreddit on reddit.

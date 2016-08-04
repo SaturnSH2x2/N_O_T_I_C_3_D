@@ -1,0 +1,31 @@
+At this point, you're probably wondering: "what
+on earth is wrong with this 3DS"?
+
+The thing is, this 3DS is modded.
+
+This 3DS is running a firmware version that
+contains exploits which allow the 3DS to
+run unsigned code.  This allows for
+homebrew applications and emulators to
+be run on the 3DS system.  However, these
+exploits alone cannot enable kernel access,
+which enables piracy.  Doing so requires
+a kernel exploit.
+
+tl;dr This 3DS is modded, allowing homebrew
+and emulators.  Pirated games, however,
+CAN NOT be installed to the system.
+
+If this is not your 3DS, it is advised 
+not to run any system updates, as 
+doing so could lose access to the
+exploits which enable homebrew.
+If this 3DS is lost, try to return
+it to its original owner.
+
+Even if this IS your 3DS, don't run
+any system updates without knowing if
+exploits still work on said updates.
+
+For more info, see the /r/3dshacks
+subreddit on reddit.
